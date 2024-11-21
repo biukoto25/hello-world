@@ -1,22 +1,12 @@
 Author: Becca Biukoto
 User name: biukoto25
 Date: 11/19/2024
-Version: 1.0
+License: MIT Open Source Initiative
+Version: 1.5
 
 GIT INSTALL
 
 GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
-
-<<<<<<< HEAD
-CREATE REPOSITORIES
-Start a new repository or obtain one from an existing URL
-$ git init [project-name]
-Creates a new local repository with the specified name
-$ git clone [url]
-Downloads a project and its entire version history
-=======
-Git distributions for Linux and POSIX systems are available on the official Git SCM web site. Git for All Platforms http://git-scm.com
->>>>>>> parent of ad6af29 (Create and Configure sections swapped)
 
 CONFIGURE TOOLING
 Configure user information for all local repositories
